@@ -24,7 +24,24 @@ Ideal para proyectos de videos divertidos, infantiles, creadores independientes 
         <video src="tu-video.mp4" poster="tu-portada.jpg" controls preload="metadata"></video>
     </div>
     <div class="video-info">
-        <div class="avatar-falso">V</div>
+        <div class="avatar-falso">V</div>ñ
+        <div class="text-details">
+            <div class="video-title">Título de tu genial video</div>
+            <div class="video-meta">NombreDeTuCanal</div>
+            <div class="video-meta">Hace 1 hora</div>
+        </div>
+    </div>
+</div>
+
+## 🤔Y que pasa si No tengo el Video y Solo lo tengo por Enlace
+En caso si no tiene El video pero si el Codigo tambien puede poner el enlace, no es obligatorio
+Si usted no tiene el video puede tambien quedar Asi
+<div class="video-card">
+    <div class="thumbnail-wrapper">
+        <video src="https://data.video/tu-video.mp4" poster="https://data.photo/tu-portada.jpg" controls preload="metadata"></video>
+    </div>
+    <div class="video-info">
+        <div class="avatar-falso">V</div>ñ
         <div class="text-details">
             <div class="video-title">Título de tu genial video</div>
             <div class="video-meta">NombreDeTuCanal</div>
