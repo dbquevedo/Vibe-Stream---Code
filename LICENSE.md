@@ -17,3 +17,31 @@ siguientes condiciones obligatorias:
    "Vibe Stream" en el código fuente o en el pie de página como agradecimiento al creador.
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO.
+
+⚖️ OPEN SOURCE LICENSE - VIBE STREAM
+
+It is allowed free of charge to anyone who obtains a copy of this software
+
+The right to use, modify, add functions and distribute the code under the
+
+Following mandatory conditions:
+
+1. MODIFICATIONS ALLOWED: The end user is completely free to change
+
+The name of the platform, logos, interface colors and add
+
+Any new code function (such as servers, comments, etc.).
+
+2. DESIGN PROTECTION: The base visual structure (the left side menu,
+
+The top navigation bar and the PeerTube style video adaptive grid)
+
+It must remain recognizable. It is not allowed to disarm the main structural design
+
+To transform it into a completely different format.
+
+3. ATTRIBUTION: A small link or mention to the original project must be maintained
+
+"Vibe Stream" in the source code or in the footer as a thank you to the creator.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
