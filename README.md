@@ -32,10 +32,12 @@ Ideal para proyectos de videos divertidos, infantiles, creadores independientes 
         </div>
     </div>
 </div>
+```
 
 ## 🤔Y que pasa si No tengo el Video y Solo lo tengo por Enlace
 En caso si no tiene El video pero si el Codigo tambien puede poner el enlace, no es obligatorio
 Si usted no tiene el video puede tambien quedar Asi
+```html
 <div class="video-card">
     <div class="thumbnail-wrapper">
         <video src="https://data.video/tu-video.mp4" poster="https://data.photo/tu-portada.jpg" controls preload="metadata"></video>
@@ -50,6 +52,5 @@ Si usted no tiene el video puede tambien quedar Asi
     </div>
 </div>
 ```
-
 ## ⚖️ Licencia
 Este proyecto es de código abierto bajo la **Licencia MIT**. Puedes usarlo, modificarlo y distribuirlo libremente para cualquier tipo de plataforma.
